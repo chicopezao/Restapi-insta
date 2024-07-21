@@ -1,3 +1,4 @@
-fastapi==0.95.0
-uvicorn==0.23.0
-instaloader==4.10.1
+fastapi
+uvicorn
+instagrapi
+python-multipart

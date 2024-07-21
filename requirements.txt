@@ -1,4 +1,5 @@
 fastapi
+Pillow
 uvicorn
 instagrapi
 python-multipart

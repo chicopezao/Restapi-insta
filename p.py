@@ -11,8 +11,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Credenciais do Instagram
-IG_USERNAME = "juliadofreee00"
-IG_PASSWORD = "LUANLEVY20"
+IG_USERNAME = "karladojob"
+IG_PASSWORD = "LUANLEVY17"
 
 # Inicializa o cliente do Instagram e faz login
 cl = Client()
